@@ -51,11 +51,11 @@ body {
     padding: 15px;
     font-size: 1.5rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 60px;
     background-color: #eee;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    box-shadow: 0 0 20px grey;
+    box-shadow: 0 0 20px rgb(75, 72, 72);
   }
   
   button:hover {
